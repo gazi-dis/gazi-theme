@@ -1,6 +1,6 @@
 # gazi-theme
  -------------------------------------------------------
-    Thank you for downloading Fruitful theme!
+    Thank you for downloading Gazi Theme!
 -------------------------------------------------------
 
 I learn custom theme for wordpress. I upload the theme files for everybody. I'll update changelog and theme files next days.
